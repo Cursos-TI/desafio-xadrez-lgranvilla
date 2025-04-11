@@ -5,6 +5,9 @@
 // O objetivo é utilizar estruturas de repetição e funções para determinar os limites de movimentação dentro do jogo.
 
 int main() {
+
+
+    printf("\n### DESAFIO DE XADREZ NIVEL NOVATO ###\n");
     // Quantidade de casas para cada peça
     int movimentoTorre = 5;
     int movimentoBispo = 5;
